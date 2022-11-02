@@ -1,0 +1,122 @@
+[
+  {
+    "Question :": "Which testing is done by developer?",
+    "A :": "Unit Testing",
+    "Answer :": "A",
+    "B :": "Integration Testing",
+    "C :": "Sanity Testing",
+    "D :": "Regression Testing"
+  },
+  {
+    "Question :": "Which is functional testing?",
+    "A :": "Load Testing",
+    "Answer :": "C",
+    "B :": "Security Testing",
+    "C :": "Gorilla Testing",
+    "D :": "Benchmark Testing"
+  },
+  {
+    "Question :": "Quality Assuarance is a _______ Process.",
+    "A :": "Validation",
+    "Answer :": "D",
+    "B :": "Specification",
+    "C :": "Testing",
+    "D :": "Verification"
+  },
+  {
+    "Question :": "Quality Control is a _______ Process.",
+    "A :": "Validation",
+    "Answer :": "A",
+    "B :": "Specification",
+    "C :": "Testing",
+    "D :": "Verification"
+  },
+  {
+    "Question :": "Which statement is correct?",
+    "A :": "Validation occurs after Verification",
+    "Answer :": "A",
+    "B :": "Verification occurs after Validation",
+    "C :": "Validation and Verification occurs together",
+    "D :": "None of them"
+  },
+  {
+    "Question :": "Verification is a part of ?",
+    "A :": "Validation ",
+    "Answer :": "C",
+    "B :": "Software Testing",
+    "C :": "Quality Assurance",
+    "D :": "Unit Testing"
+  },
+  {
+    "Question :": "Validation is a part of ?",
+    "A :": "Validation ",
+    "Answer :": "B",
+    "B :": "Software Testing",
+    "C :": "Quality Assurance",
+    "D :": "Unit Testing"
+  },
+  {
+    "Question :": "Which can be done by automation?",
+    "A :": "Validation ",
+    "Answer :": "A",
+    "B :": "Software Testing",
+    "C :": "Quality Assurance",
+    "D :": "Verification"
+  },
+  {
+    "Question :": "Tests performed after development are called?",
+    "A :": "Static Testing ",
+    "Answer :": "C",
+    "B :": "Software Testing",
+    "C :": "Dynamic Testing",
+    "D :": "None of them"
+  },
+  {
+    "Question :": "Defects which are accepted by developers are called?",
+    "A :": "Error",
+    "Answer :": "B",
+    "B :": "Bug",
+    "C :": "Fault",
+    "D :": "None of them"
+  },
+  {
+    "Question :": "How many testing types are there?",
+    "A :": "1",
+    "Answer :": "B",
+    "B :": "2",
+    "C :": "3",
+    "D :": "4"
+  },
+  {
+    "Question :": "How many testing methods are there?",
+    "A :": "1",
+    "Answer :": "C",
+    "B :": "2",
+    "C :": "3",
+    "D :": "4"
+  },
+  {
+    "Question :": "Which is the highest level of testing?",
+    "A :": "Black Box Testing",
+    "Answer :": "C",
+    "B :": "Grey Box Testing",
+    "C :": "White Box Testing",
+    "D :": "None of them"
+  },
+  {
+    "Question :": "When we test only the major classes\/ functions in a test is called?",
+    "A :": "Feature Testing",
+    "Answer :": "D",
+    "B :": "Regression Testing",
+    "C :": "Unit Testing",
+    "D :": "Smoke Testing"
+  },
+  {
+    "Question :": "Which is the biggest testing of all?",
+    "A :": "Feature Testing",
+    "Answer :": "B",
+    "B :": "Regression Testing",
+    "C :": "Unit Testing",
+    "D :": "Smoke Testing"
+  }
+]
